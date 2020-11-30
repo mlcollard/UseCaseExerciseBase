@@ -9,8 +9,9 @@ yuml.me Use Case Diagram syntax
 The first one is completed for you.
 
 1. Go to yuml.me and create a Use Case diagram. You do not need an account.
-2. Copy and paste the contents of the file UseCaseDiagram.md into the editor on the left of the screen.
-3. You should then see the following on the right:
+2. Select the UseCaseDiagram.md file. For the following, you can go into Edit mode (pencil icon), or view it using the Raw button
+3. Copy and paste the (raw) contents of the file UseCaseDiagram.md from this repository into the editor on the left of the screen.
+4. You should then see the following on the right:
 
 ![](StartingUseCaseDiagram.png)
 
