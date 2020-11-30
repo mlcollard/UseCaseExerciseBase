@@ -2,8 +2,8 @@
 
 The file, UseCaseDiagram.md, contains a list of user stories in the form:
 
-\# Title
-\#\# Description
+\# Title  
+\#\# Description  
 yuml.me Use Case Diagram syntax
 
 The first one is completed for you.
@@ -12,7 +12,7 @@ The first one is completed for you.
 2. Copy and paste the contents of the file UseCaseDiagram.md into the editor on the left of the screen.
 3. You should then see the following on the right:
 
-![](http://yuml.me/collard/diagram/nofunky/usecase/)
+![](StartingUseCaseDiagram.png)
 
 4. Fill in the rest of the yuml syntax needed to fit all the user stories into use case syntax. I.e., follow the first example.
 
